@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/RichardKnop/machinery/v1"
-	"github.com/RichardKnop/machinery/v1/config"
-	"github.com/RichardKnop/machinery/v1/tasks"
+	"github.com/lukst0ne/machinery/v1"
+	"github.com/lukst0ne/machinery/v1/config"
+	"github.com/lukst0ne/machinery/v1/tasks"
 )
 
 func TestWorkerOnlyConsumesRegisteredTaskAMQP(t *testing.T) {

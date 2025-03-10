@@ -1,10 +1,10 @@
-module github.com/RichardKnop/machinery/v2
+module github.com/lukst0ne/machinery/v2
 
 go 1.15
 
 require (
 	cloud.google.com/go/pubsub v1.10.0
-	github.com/RichardKnop/logging v0.0.0-20190827224416-1a693bdd4fae
+	github.com/lukst0ne/logging v0.0.0-20190827224416-1a693bdd4fae
 	github.com/aws/aws-sdk-go v1.37.16
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b
 	github.com/go-redsync/redsync/v4 v4.8.1

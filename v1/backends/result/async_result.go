@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/RichardKnop/machinery/v1/backends/iface"
-	"github.com/RichardKnop/machinery/v1/tasks"
+	"github.com/lukst0ne/machinery/v1/backends/iface"
+	"github.com/lukst0ne/machinery/v1/tasks"
 )
 
 var (

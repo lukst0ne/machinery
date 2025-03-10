@@ -3,7 +3,7 @@ package tasks_test
 import (
 	"testing"
 
-	"github.com/RichardKnop/machinery/v2/tasks"
+	"github.com/lukst0ne/machinery/v2/tasks"
 	"github.com/stretchr/testify/assert"
 )
 
